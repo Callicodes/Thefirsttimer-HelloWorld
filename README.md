@@ -1,4 +1,4 @@
-# Thefirsttimer-HelloWorld
+# HelloWorld
 Doing the github tutorial
 
 Tis I!...the interplanetary dweller
